@@ -1,4 +1,6 @@
-A Youtube downloader tool, no need to go look into those risky websites anymore!.
+# Pinku Youtube Downloader
+
+A Youtube downloader tool developed in Python, no need to go look into those risky websites anymore!.
 
 Required to install pytube module:
 > pip install pytubefix
